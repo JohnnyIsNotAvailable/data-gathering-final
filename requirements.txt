@@ -1,0 +1,13 @@
+requests==2.31.0
+pandas==2.0.3
+numpy==1.24.4
+
+kafka-python==2.0.2
+
+apache-airflow==2.8.1
+apache-airflow-providers-sqlite==3.7.0
+apache-airflow-providers-apache-kafka==1.4.0
+
+SQLAlchemy==1.4.49
+
+python-dotenv
